@@ -7,3 +7,6 @@
 推荐大家按照 fucking-algorithm 中的刷题路径来刷题。当然，大家也可以按照 LeetCode 探索栏目中的专题来刷 https://leetcode-cn.com/explore/。
 
 ![LeetCode 探索界面](https://raw.githubusercontent.com/clvsit/markdown-image/master/leetcode/20200321151506.png)
+
+【更新日志】：
+- 3月24日：新增 LeetCode 每日刷题打卡。
